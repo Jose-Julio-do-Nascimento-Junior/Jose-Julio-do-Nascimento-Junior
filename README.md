@@ -74,5 +74,5 @@ GitHub: **https://github.com/Jose-Julio-do-Nascimento-Junior**
 
 ---
 
-### 📈 Visitas ao Perfil  
+### 👀 Visitas ao Perfil  
 
