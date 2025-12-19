@@ -63,7 +63,7 @@ No meu portfólio você encontrará projetos que refletem meu estilo de desenvol
 - CronJobs e processos assíncronos  
 - Padrões modernos de organização e escalabilidade  
 
-A pasta `/projetos` reúne uma visão geral do sistema e explica a função de cada serviço.
+A pasta **[/projetos](https://github.com/Jose-Julio-do-Nascimento-Junior/Jose-Julio-do-Nascimento-Junior/blob/main/projetos/projetos.md)** reúne uma visão geral do sistema e explica a função de cada serviço.
 
 ---
 
