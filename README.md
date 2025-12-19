@@ -63,7 +63,7 @@ No meu portfólio você encontrará projetos que refletem meu estilo de desenvol
 - CronJobs e processos assíncronos  
 - Padrões modernos de organização e escalabilidade  
 
-A pasta **[/projetos](https://github.com/Jose-Julio-do-Nascimento-Junior/Jose-Julio-do-Nascimento-Junior/blob/main/projetos/projetos.md)** contém o link para o repositório das soluções implementadas, onde estão centralizadas a documentação e a análise completas do sistema.
+A pasta **[projetos](https://github.com/Jose-Julio-do-Nascimento-Junior/Jose-Julio-do-Nascimento-Junior/blob/main/projetos/projetos.md)** contém o link para o repositório das soluções implementadas, onde estão centralizadas a documentação e a análise completas do sistema.
 
 ---
 
