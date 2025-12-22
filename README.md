@@ -70,7 +70,7 @@ A pasta **[projetos](https://github.com/Jose-Julio-do-Nascimento-Junior/Jose-Jul
 ## 🌐 Onde me encontrar
 
 LinkedIn: **[linkedin.com/in/josé-julio-do-nascimento-junior](https://www.linkedin.com/in/jos%C3%A9-julio-do-nascimento-junior-3a4aa134a/)**  
-GitHub: **https://github.com/Jose-Julio-do-Nascimento-Junior**
+Email: zejulio_@hotmail.com
 
 ---
 
