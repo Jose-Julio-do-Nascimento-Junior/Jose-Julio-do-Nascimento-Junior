@@ -75,4 +75,4 @@ E-mail: zejulio_@hotmail.com
 ---
 
 ### 👀 Visitas ao Perfil  
-(https://komarev.com/ghpvc/?username=Jose-Julio-do-Nascimento-Junior&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Jose-Julio-do-Nascimento-Junior&color=0e75b6&style=flat)
